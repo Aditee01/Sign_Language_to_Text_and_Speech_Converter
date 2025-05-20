@@ -11,11 +11,11 @@ This project uses **OpenCV**, **CNN (Deep Learning)**, and **Tkinter GUI** to re
 
 
 ## 🗂️ Project Structure
-├── model/ # Trained CNN model (asl_model.h5)
+├── model     # Trained CNN model (asl_model.h5)
 
-├── labels/ # Labels for ASL classes
+├── labels    # Labels for ASL classes
 
-├── sign_language_app.py # Main GUI app using Tkinter
+├── app.py    # Main GUI app using Tkinter
 
 ├── requirements.txt
 
