@@ -12,9 +12,13 @@ This project uses **OpenCV**, **CNN (Deep Learning)**, and **Tkinter GUI** to re
 
 ## 🗂️ Project Structure
 ├── model/ # Trained CNN model (asl_model.h5)
+
 ├── labels/ # Labels for ASL classes
+
 ├── sign_language_app.py # Main GUI app using Tkinter
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -23,6 +27,7 @@ This project uses **OpenCV**, **CNN (Deep Learning)**, and **Tkinter GUI** to re
 1. Clone the repo:
 
 git clone https://github.com/Aditee01/Sign_Language_to_Text_and_Speech_Converter.git
+
 cd Sign_Language_to_Text_and_Speech_Converter
 
 pip install -r requirements.txt
